@@ -1,21 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LIC - DMS</title>
-    <link rel="stylesheet" href="./assets/styles.css">
-</head>
-<body>
-    <!-- Header -->
-        <!-- Navigation -->
-        <!-- Links {New Believers, Members, ...links } -->
+# Lovesprings International Church - Document Management System
 
-    <!-- Main -->
-    
-    <!-- Footer -->
+## Documents to be uploaded
+1. Retention & Followup Summary
+2. SBS Retention & Followup Data Form
+3. SBS Weekly Attendance Sign-in Sheet
+4. SBS Weekly Attendance Register
+5. LIC Membership Form
 
-    <script src="./assets/script.js"></script>
-</body>
-</html>
+### Step 1: Research
+1. Edit and Manipulate PDF Files/Word Documents using React
+2. [How to Edit & Manipulate PDFs With React | PDFTron](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj69trWmfP4AhWC8rsIHR3VBtsQFnoECBMQAw&url=https%3A%2F%2Fwww.pdftron.com%2Fblog%2Freact%2Fhow-to-build-react-pdf-editor%2F&usg=AOvVaw0fiJhI6euENPiTVS9ki8CK)
